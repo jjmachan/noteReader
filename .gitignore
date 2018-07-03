@@ -2,3 +2,6 @@ data/
 transformations/
 transformations-resized.tar.gz
 transformations.tar.gz
+bottleneck/
+retrain_logs/
+tfhub_modules/
